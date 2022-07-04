@@ -25,7 +25,11 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edel-rex&show_icons=true&theme=radical)](https://github.com/edel-rex) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edel-rex&layout=compact)](https://github.com/edel-rex/)    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edel-rex&show_icons=true&theme=radical)](https://github.com/edel-rex) 
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edel-rex&layout=compact)](https://github.com/edel-rex/)    
 
 <br>
 
