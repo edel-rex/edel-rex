@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gowtham
+### Hi there 👋 I'm Edelbert
 
 ### Languages and Tools
 <p align="left">
