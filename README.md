@@ -1,8 +1,11 @@
-[![MasterHead](https://cdn-images.zety.com/pages/what_is_a_cover_letter_2.jpg)](https://github.com/edel-rex)
+![github cover page](https://user-images.githubusercontent.com/61172626/177200624-c4527233-6df6-4132-8034-1dcf47e8117a.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Edelbert</h1>
 <h3 align="center">Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edel-rex&label=Profile%20views&color=0e75b6&style=flat" alt="edel-rex" /> </p>
+
 
 
 
